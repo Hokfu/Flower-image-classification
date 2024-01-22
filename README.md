@@ -11,7 +11,7 @@
 Classification model for the flowers 'daisy' and 'dandelion'. This dataset is from Kaggle. <br><br>
 https://www.kaggle.com/datasets/alsaniipe/flowers-dataset
 <br><br>
-The notebook was run in Kaggle.
+The notebook was run in Kaggle. You can install the necessary libraries from requirement.txt, or you can run it in Kaggle.
 <br><br>
 This is my first project on image classification. 
 <br><br>
@@ -30,7 +30,7 @@ Model is trained with sequential model with CNN, and pre-trained models- 'VGG16'
 VGG16 model is used as the final model.
 <br><br>
 # Dependency and Environment Management
-Dependencies are in 'pipfile'. To install dependencies,
+Dependencies are in 'pipfile'. To install dependencies, you need to create pipenv virtual environment.
 <br><br>
 ```$pip install pipenv```
 
