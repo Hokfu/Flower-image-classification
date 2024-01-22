@@ -15,6 +15,7 @@ The notebook was run in Kaggle. You can install the necessary libraries from req
 <br><br>
 This is my first project on image classification. 
 <br><br>
+The trained model is converted to Tensorflow lite for light usages.
 # Dataset
 Train dataset has 529 daisy images and 1275 dandelion images.<br>
 Validation dataset has 1620 daisy images and 1821 dandelion images.<br>
