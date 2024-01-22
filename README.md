@@ -11,7 +11,7 @@
 Classification model for the flowers 'daisy' and 'dandelion'. This dataset is from Kaggle. <br><br>
 https://www.kaggle.com/datasets/alsaniipe/flowers-dataset
 <br><br>
-The notebook was run in Kaggle. You can install the necessary libraries from requirement.txt, or you can run it in Kaggle.
+The notebook was run in Kaggle. You can install the necessary libraries from requirements.txt, or you can run it in Kaggle.
 <br><br>
 This is my first project on image classification. 
 <br><br>
