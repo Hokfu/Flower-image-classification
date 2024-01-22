@@ -20,9 +20,8 @@ app = Flask("flower_classification")
 @app.route("/predict",methods=['POST'])
 
 def predict():
-    url = request.get_json()
-    print(url)
-    X = preprocessor.from_url(url)
+    image_path = request.get_json()
+    X = preprocessor.from_url(image_path['url'])
 
     interpreter.set_tensor(input_index, X)
     interpreter.invoke()

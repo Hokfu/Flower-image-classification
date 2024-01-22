@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 tflite = "*"
 keras-image-helper = "*"
+flask = "*"
 
 [dev-packages]
 
